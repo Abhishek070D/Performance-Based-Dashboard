@@ -161,3 +161,7 @@ Use Ctrl + click to select multiple visuals and align them
 Save as .pbix file → upload directly to GitHub
 File → Export → Export to PDF → attach to README
 Home → Publish → sign in to Power BI Service → get a shareable web link
+
+## Image of Dashboard
+<img width="1218" height="747" alt="Screenshot 2026-06-17 131312" src="https://github.com/user-attachments/assets/407e1418-2ebc-4f64-865e-0a4ee89ce7fa" />
+
